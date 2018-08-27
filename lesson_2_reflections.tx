@@ -1,7 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 When I initialize a repository, is added a .git directory and I need to do it to make it e git directory
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Is diferent because it is not saved in the repository, it is temporary.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
